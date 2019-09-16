@@ -1,4 +1,4 @@
-require "spec_helper"
+require "spec_helper.rb"
 
 describe "Artist" do 
   it "has a name" do
